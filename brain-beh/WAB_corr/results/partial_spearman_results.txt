@@ -1,0 +1,3 @@
+         Variable1                          Variable2  Partial_Spearman_Correlation  P_Value  FDR_Corrected_P_Value
+WAB_naming_postpre            Cluster_Trained_prepost                      0.448916 0.061657               0.061657
+WAB_naming_postpre Cluster_TrainedvsUntrained_prepost                      0.490196 0.038903               0.061657
