@@ -17,5 +17,5 @@ This repository requires the following software:
 
 For questions, please contact the corresponding author:
 
-Noelia Martínez-Molina, PhD
+Noelia Martínez-Molina, PhD.
 Email: noelia.martinezmolina@helsinki.fi
