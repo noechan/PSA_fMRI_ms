@@ -2,10 +2,12 @@ This repository contains the code (main analyses and supplementary material) for
 
 The repository includes:
 
-* Scripts and functions for preprocessing and analyzing behavioral and neuroimaging (T1w, sparse sampling fMRI) data.
+* Scripts and functions for analyzing behavioral (verbal learning) data.
+* Scripts and functions for preprocessing neuroimaging (T1w, sparse sampling fMRI) data.
 * Scripts for obtaining the singing network mask from healthy controls.
-* Scripts and function for task-based fMRI analysis, including group comparisons and brain-behavior correlations.
-* Scripts for analyzing the in-scanner singing performance of patients with PSA. 
+* Scripts and functions for task-based fMRI analysis, including group comparisons and brain-behavior correlations.
+* Scripts for analyzing the in-scanner singing performance of patients with PSA.
+* Scripts for visualizing motion outliers. 
 
 This repository requires the following software:
 
