@@ -1,10 +1,11 @@
-This repository contains the code (main analyses and supplementary material) for the study titled "Singing-Induced Functional Neuroplasticity in Chronic Post-Stroke Aphasia: A Cross-Over Randomized Controlled Trial" by Noelia Martínez-Molina, Anni Pitkäniemi, Sini-Tuuli Siponkoski, Nella Moisseinen, Linda Kuusela, Sari Laitinen, Essi-Reetta Särkämö, Johanna Pekkola, Susanna Melkas, Gottfried Schlaug, Boris Kleber, Aleksi J. Sihvonen, and Teppo Särkämö.
+This repository contains the code (main analyses and supplementary material) for the manuscript entitled "Singing-Induced Functional Neuroplasticity in Chronic Post-Stroke Aphasia: A Cross-Over Randomized Controlled Trial" by Noelia Martínez-Molina, Anni Pitkäniemi, Sini-Tuuli Siponkoski, Nella Moisseinen, Linda Kuusela, Sari Laitinen, Essi-Reetta Särkämö, Johanna Pekkola, Susanna Melkas, Gottfried Schlaug, Boris Kleber, Aleksi J. Sihvonen, and Teppo Särkämö.
 
 The repository includes:
 
-* Scripts for preprocessing and analyzing behavioral and neuroimaging data.
-* Methods for generating the singing network mask from healthy controls.
-* Code for task-based fMRI analysis, including group comparisons and brain-behavior correlations.
+* Scripts and functions for preprocessing and analyzing behavioral and neuroimaging (T1w, sparse sampling fMRI) data.
+* Scripts for obtaining the singing network mask from healthy controls.
+* Scripts and function for task-based fMRI analysis, including group comparisons and brain-behavior correlations.
+* Scripts for analyzing the in-scanner singing performance of patients with PSA. 
 
 This repository requires the following software:
 
