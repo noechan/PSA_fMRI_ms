@@ -1,4 +1,4 @@
-This repository contains the code (main analyses and supplementary material) for the manuscript entitled "Singing-Induced Functional Neuroplasticity in Chronic Post-Stroke Aphasia: A Cross-Over Randomized Controlled Trial" by Noelia Martínez-Molina, Anni Pitkäniemi, Sini-Tuuli Siponkoski, Nella Moisseinen, Linda Kuusela, Sari Laitinen, Essi-Reetta Särkämö, Johanna Pekkola, Susanna Melkas, Gottfried Schlaug, Boris Kleber, Aleksi J. Sihvonen, and Teppo Särkämö.
+This repository contains the code (main analyses and supplementary material) for the manuscript entitled *"Singing-Induced Functional Neuroplasticity in Chronic Post-Stroke Aphasia: A Cross-Over Randomized Controlled Trial"* by Noelia Martínez-Molina, Anni Pitkäniemi, Sini-Tuuli Siponkoski, Nella Moisseinen, Linda Kuusela, Sari Laitinen, Essi-Reetta Särkämö, Johanna Pekkola, Susanna Melkas, Gottfried Schlaug, Boris Kleber, Aleksi J. Sihvonen, and Teppo Särkämö.
 
 The repository includes:
 
