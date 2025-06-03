@@ -31,6 +31,6 @@ for r = 1:length(unique_rois)
     fprintf('ROI: %-40s | Mean: %.4f | SD: %.4f | Cohen''s d: %.3f\n', roi_name, mean_val, sd_val, d);
 end
 
-% Optional: Write to CSV
+% Write to CSV
 T = table(roi_names_out, cohens_d, 'VariableNames', {'ROI', 'Cohens_d'});
 writetable(T, fullfile(fileparts(file_path), 'EffectSizes_singavsrest_training_BRAVEFWECcluster_tr.csv'));
